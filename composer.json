@@ -1,0 +1,10 @@
+{
+    "name": "administrator/demo",
+    "authors": [
+        {
+            "name": "蒲公英的种子",
+            "email": "1097848289@qq.com"
+        }
+    ],
+    "require": {}
+}
